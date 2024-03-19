@@ -27,5 +27,6 @@ INSERT INTO Students VALUES
     (4, 'Mahdi', 'Zolfaghari', 26);
 
 -- Insert Another Record In Table
-INSERT INTO Students VALUES (5, 'Amir', 'Jamshidi', 18);
+INSERT INTO Students VALUES (5, 'Amir', 'Jamshidi', 18),
+	(6, 'Elmira', 'Haji', 22);
 
